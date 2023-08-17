@@ -160,7 +160,7 @@ The following steps are under construction and will be updated with more detaile
 
 :::
 
-## Step 7: Review & Deploy AnyTrust (NEED TO FILL IN HERE)
+## Step 7: Review & Deploy AnyTrust
 
 ## Step 8: Configure Keyset
 
