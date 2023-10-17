@@ -1,0 +1,28 @@
+---
+title: 'Faucets'
+sidebar_label: Faucets
+description: An overview of where to get test ETH
+reader-audience: developers who want to build on Ethereum/Arbitrum
+content-type: overview
+author: yermakova
+---
+
+## Faucets
+
+A testnet faucet is a faucet that provides free testnet tokens. Testnet tokens are non-monetary versions of mainnet tokens that are used for testing purposes on a testnet blockchain. 
+
+Below you can find faucets for obtaining testnet ETH:
+
+| Chain              | Faucet URL                                            | Faucet Operator    |
+| ------------------ | ----------------------------------------------------- | ------------------ |
+| Ethereum Sepolia   | https://sepoliafaucet.com/                            | Alchemy            |
+| Ethereum Sepolia   | https://sepolia-faucet.pk910.de/                      | Sepolia PoW Faucet |
+| Arbitrum Sepolia   | https://faucet.quicknode.com/arbitrum/sepolia         | QuickNode          |
+
+### Sepolia 
+Ethereum Sepolia is a public testnet for Ethereum. It is used to test and develop Ethereum applications before they are deployed to mainnet.
+
+Sepolia is designed to be compatible with the Ethereum Merge. Sepolia also has a permissioned validator set, which means that it is run by a limited number of trusted validators. 
+
+### Goerli & Rinkeby
+Goerli and Rinkeby have been [deprecated](https://github.com/eth-clients/goerli) and will soon lose all support. Official guidance is to use Sepolia. Goerli and Rinkeby faucets are not listed in the table for this reason.
